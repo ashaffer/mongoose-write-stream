@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-write-stream",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashaffer/mongoose-write-stream.git"
+  },
+  "keywords": [
+    "mongoose",
+    "stream",
+    "writable",
+    "stream",
+    "mongoose",
+    "write",
+    "stream"
+  ],
+  "author": "ashaffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashaffer/mongoose-write-stream/issues"
+  },
+  "homepage": "https://github.com/ashaffer/mongoose-write-stream",
+  "dependencies": {
+    "through": "^2.3.4"
+  }
+}
